@@ -9,3 +9,4 @@ Integração do N8N com plataformas como Trello e Google Sheets, mostrando como 
 Por fim, para atualizar uma issue no GitHub, basta acessar a issue desejada e realizar as alterações necessárias, salvando as mudanças para que sejam aplicadas. A configuração de um nó de Form Submission no N8N também é mencionada, permitindo a coleta de dados de formulários e sua integração ao fluxo, facilitando a automação de processos. A conclusão do vídeo demonstra a criação bem-sucedida da issue no GitHub, com todas as informações corretamente atribuídas, convidando os espectadores a explorarem essa ferramenta em seus projetos. 
 
 <img width="1703" height="802" alt="image" src="https://github.com/user-attachments/assets/24e44fcd-06e3-42d4-85bd-a18f879b34d4" />
+<img width="1579" height="931" alt="image" src="https://github.com/user-attachments/assets/d5c7f576-6785-4e13-b53e-4da8675996d1" />
